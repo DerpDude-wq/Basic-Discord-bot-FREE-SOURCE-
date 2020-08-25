@@ -1,0 +1,14 @@
+{
+  "name": "bot-wq",
+  "version": "1.0.0",
+  "description": "A free source basic discord bot for skids :)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derp.#1234",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
